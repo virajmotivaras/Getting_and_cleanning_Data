@@ -5,20 +5,7 @@ Created this repository for the course project
 
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 The folder structure is as follows:
-Root directory
-  |
-  |----run_analysis.R
-  |----activity_labels.txt
-  |----averages_data.txt
-  |----features.txt
-  |----test (folder)
-      |----X_test.txt
-      |----y_test.txt
-      |----subject_test.txt
-  |----train (folder)
-      |----X_train.txt
-      |----y_train.txt
-      |----subject_train.txt
+Root directory contains the files 'run_analysis.R', 'activity_labels.txt', 'averages_data.txt', 'features.txt', 'test' folder, 'train' folder.
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
